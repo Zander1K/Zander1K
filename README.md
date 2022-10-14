@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
+a lot of my works are private....
+
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  See my portfolio at [at my website](http://alexanderdare.com)
 * ✉️  You can contact me at [alexanderdare01@gmail.com](mailto:alexanderdare01@gmail.com)
